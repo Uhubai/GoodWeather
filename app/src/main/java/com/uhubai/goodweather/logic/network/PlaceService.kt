@@ -1,4 +1,4 @@
-package com.uhubai.goodweather.logic.dao
+package com.uhubai.goodweather.logic.network
 
 import com.uhubai.goodweather.GoodWeatherApplication
 import com.uhubai.goodweather.logic.model.PlaceResponse
